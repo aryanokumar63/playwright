@@ -2,4 +2,5 @@
 
 This repository is the starting point for Playwright test automation.
 
-Add your Playwright tests and project setup here....
+Add your Playwright tests and project setup here.....
+
