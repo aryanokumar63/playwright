@@ -1,0 +1,62 @@
+[33mcommit 5f9c09c029ce779ffd03e19fad0f216a87be7668[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Fri Oct 16 19:36:23 2026 +0530
+
+    new changes
+
+[33mcommit 060265739d2147dd921912ece70770de61574640[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Mon Oct 12 19:57:53 2026 +0530
+
+    Add login page
+
+[33mcommit d4732081ea3fc52f9df51af971000e0ab2ae3e11[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 20:49:33 2026 +0530
+
+    singup Dummy Files
+
+[33mcommit 6981d48128000f59a76168acc790b66b2e00cc95[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 20:34:20 2026 +0530
+
+    changes in second
+
+[33mcommit babeffc36818164f10aa692276c1a2da48acfa80[m
+Merge: 3b41c9d 52fe489
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 20:25:16 2026 +0530
+
+    Merge branch 'main' of https://github.com/aryanokumar63/playwright
+
+[33mcommit 3b41c9d17f52575992c3e1b73c79efef3bf6fc49[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 20:18:16 2026 +0530
+
+    changes
+
+[33mcommit 11c2dfd3188f8c581500c998d0f3e552bd417939[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 20:07:32 2026 +0530
+
+    changes in dots
+
+[33mcommit bc657833e2de726471dfe47081ed232376c1be69[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 18:56:46 2026 +0530
+
+    Update README to enhance project setup instructions
+
+[33mcommit 52fe489ef51fa0b5820dd041cc8eeee5f5e0b854[m
+Author: Aryanokumar63 <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 18:55:10 2026 +0530
+
+    Update README with Playwright project details
+    
+    Added project description and usage instructions.
+
+[33mcommit fedbfa66a2d9bdac6ccd78eef60e3a9ddca388c6[m
+Author: Aryan Kumar <aryanokumar63@gmail.com>
+Date:   Tue Oct 6 18:46:14 2026 +0530
+
+    Add Playwright README
